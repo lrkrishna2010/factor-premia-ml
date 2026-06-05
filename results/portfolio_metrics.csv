@@ -1,0 +1,9 @@
+Model,Leg,Ann. Return (%),Ann. Vol (%),Sharpe,Max DD (%)
+OLS (FF5+Mom+STRev),Gross,0.04,8.85,0.004,-43.81
+OLS (FF5+Mom+STRev),Net,-0.4,8.84,-0.045,-46.22
+Lasso,Gross,-0.41,9.69,-0.042,-22.15
+Lasso,Net,-0.73,9.68,-0.075,-23.23
+Random Forest,Gross,2.66,9.35,0.284,-21.17
+Random Forest,Net,2.12,9.36,0.227,-21.86
+XGBoost,Gross,3.38,9.36,0.361,-22.13
+XGBoost,Net,2.73,9.36,0.291,-22.57
